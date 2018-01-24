@@ -1,0 +1,22 @@
+{
+  "name": "basketball",
+  "version": "1.0.0",
+  "description": "basketball game",
+  "main": "sketch.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "test": "sketch.js"
+  },
+  "keywords": [
+    "basketball"
+  ],
+  "author": "ruaidri",
+  "license": "ISC"
+}
